@@ -1,0 +1,22 @@
+{
+  "name": "flexbox-layout",
+  "version": "0.0.2",
+  "homepage": "https://github.com/amalieiev/flex-layout",
+  "authors": [
+    "artem.malieiev@gmail.com"
+  ],
+  "description": "css stylesheet based on flexbox layout concepts",
+  "main": "flexbox-layout.css",
+  "keywords": [
+    "flexbox",
+    "layout"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

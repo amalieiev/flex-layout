@@ -1,12 +1,12 @@
 {
-  "name": "flex-layout",
-  "version": "0.0.1",
+  "name": "flexbox-layout",
+  "version": "0.0.2",
   "homepage": "https://github.com/amalieiev/flex-layout",
   "authors": [
-    "artem.malieiev <artem.malieiev@gmail.com>"
+    "artem.malieiev@gmail.com"
   ],
   "description": "css stylesheet based on flexbox layout concepts",
-  "main": "flex-layout.css",
+  "main": "flexbox-layout.css",
   "keywords": [
     "flexbox",
     "layout"
